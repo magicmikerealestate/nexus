@@ -1,0 +1,14 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
+N:Rudnev;Mike;;;
+FN: Mike  Rudnev 
+ORG:Real  Estate;
+TITLE:Real Estate Investor Broker
+EMAIL;type=INTERNET;type=WORK;type=pref:info@MagicMikeRealEstate.com
+TEL;type=WORK;type=VOICE:+1 206 430 1717
+item1.ADR;type=WORK;type=pref:;;100 Andover Park Wes\nSTE 150-185\, Tukwila;;;WA 98188;Washington
+item1.X-ABADR:sg
+item2.URL;type=pref:magicmikerealestate.com
+item2.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
