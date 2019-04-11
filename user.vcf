@@ -7,7 +7,7 @@ ORG:Real  Estate;
 TITLE:Real Estate Investor Broker
 EMAIL;type=INTERNET;type=WORK;type=pref:info@MagicMikeRealEstate.com
 TEL;type=WORK;type=VOICE:+1 206 430 1717
-item1.ADR;type=WORK;type=pref:;;4020 Lake Washington Blvd NE\nSuite 310\, Kirkland;;;WA 98033;Washington
+item1.ADR;type=WORK;type=pref:;;4020 Lake Washington Blvd NE \n Suite 310 \, Kirkland;;;WA 98033;Washington
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.facebook.com/MagicMikeRealEstate/
 item2.X-ABLabel:_$!<HomePage>!$_
