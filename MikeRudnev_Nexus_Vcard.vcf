@@ -3,15 +3,15 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Rudnev;Mike;;;
 FN: Mike  Rudnev 
-ORG:Real  Estate;
+ORG:Nexus  Realty  International;
 TITLE:Real Estate Investor Broker
 EMAIL;type=INTERNET;type=WORK;type=pref:info@MagicMikeRealEstate.com
 TEL;type=WORK;type=VOICE:+1 206 430 1717
-item1.ADR;type=WORK;type=pref:;;4020 Lake Washington Blvd NE Suite 310;Kirkland;;;WA 98033;Washington
+item1.ADR;type=WORK;type=pref:;;4020 Lake Washington Blvd NE Suite 310;Kirkland, WA 98033;Washington
 item1.X-ABADR:sg
 item2.URL;type=pref:https://www.facebook.com/MagicMikeRealEstate/
 item2.X-ABLabel:_$!<HomePage>!$_
-item3.URL;type=pref:https://www.magicmikerealestate.com/
+item3.URL;type=pref:https://www.MagicMikeRealEstate.com/
 item3.X-ABLabel:_$!<HomePage>!$_
 item4.URL;type=pref:https://www.instagram.com/magic_mike_real_estate/
 item4.X-ABLabel:_$!<HomePage>!$_
@@ -19,10 +19,8 @@ item5.URL;type=pref:https://www.yelp.com/biz/magic-mike-real-estate-tukwila/
 item5.X-ABLabel:_$!<HomePage>!$_
 item6.URL;type=pref:https://www.linkedin.com/in/mike-rudnev-b5828287/
 item6.X-ABLabel:_$!<HomePage>!$_
-item7.URL;type=pref:https://join.skype.com/invite/t4gb70VG7hSn/
+item7.URL;type=pref:live:mike.rudnev
 item7.X-ABLabel:_$!<HomePage>!$_
 item8.URL;type=pref:https://www.pinterest.com/MagicMikeRealEstate/
 item8.X-ABLabel:_$!<HomePage>!$_
-item9.URL;type=pref:https://goo.gl/maps/haVsjrEtzUL2/
-item9.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
